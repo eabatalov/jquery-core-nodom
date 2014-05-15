@@ -1,4 +1,4 @@
 cocoonjs-jquery
 ===============
 
-Implementation of jQuery subset which works in CocoonJS runtime.
+Implementation of jQuery subset for running in CocoonJS Javascript runtime.
