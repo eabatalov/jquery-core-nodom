@@ -1,5 +1,5 @@
 {
-    "name" : "jquery-nodom-core",
+    "name" : "jquery-core-nodom",
     "version" : "0.1.0",
     "description" : "jQuery core subset for running in environmantes with no natural DOM support",
     "keywords" : ["jquery", "core", "nodom"],
