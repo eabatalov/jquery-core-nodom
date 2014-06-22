@@ -1,0 +1,20 @@
+{
+    "name" : "jquery-nodom-core",
+    "version" : "0.1.0",
+    "description" : "jQuery core subset for running in environmantes with no natural DOM support",
+    "keywords" : ["jquery", "core", "nodom"],
+    "homepage" : "https://github.com/eabatalov/jquery-nodom",
+
+    "author" : {
+        "name" : "Eugene Batalov"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eabatalov/jquery-nodom"
+    },
+
+    "main": "jquery.nodom.js",
+
+    "private" : false
+}
