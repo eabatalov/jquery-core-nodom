@@ -1,7 +1,8 @@
-cocoonjs-jquery
+jquery-nodom
 ===============
 
-Implementation of jQuery subset for running in CocoonJS Javascript runtime.
+Implementation of jQuery core (subset for now) for running in CocoonJS Javascript runtime
+and other runtimes with no natural DOM support such as nodejs.
 
 This project is on a very initial stage. Implemented subset is very small. It even has no unit tests yet.
 
