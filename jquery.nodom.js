@@ -11,6 +11,13 @@ jQuery = {};
 
 $ = jQuery;
 
+/*
+ * NodeJS support
+ */
+if (module) {
+    module.exports = jQuery;
+}
+
 (function() {
 
     var class2type = {};
