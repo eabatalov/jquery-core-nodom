@@ -1,4 +1,4 @@
-jquery-nodom
+jquery-core-nodom
 ===============
 
 Implementation of jQuery core (subset for now) for running in CocoonJS Javascript runtime
